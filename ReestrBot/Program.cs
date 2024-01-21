@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
-using Ninject;
-using Static.Constants;
+using Shared.Statics;
 
 namespace ReestrBot
 {

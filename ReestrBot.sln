@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReestrBot", "ReestrBot\ReestrBot.csproj", "{889FB030-7877-4A88-AE23-3D5B8B88EE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReestrBot", "ReestrBot\ReestrBot.csproj", "{889FB030-7877-4A88-AE23-3D5B8B88EE67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestData", "TestData\TestData.csproj", "{1FE22341-393D-4F4B-9BC0-718CC64D0632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestData", "TestData\TestData.csproj", "{1FE22341-393D-4F4B-9BC0-718CC64D0632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseProvider", "DatabaseProvider\DatabaseProvider.csproj", "{A2635D9A-E284-48A0-B157-22D9A2741805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseProvider", "DatabaseProvider\DatabaseProvider.csproj", "{A2635D9A-E284-48A0-B157-22D9A2741805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{EF52430E-A773-40A5-ABEF-7B682EC32AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModels", "DataModels\DataModels.csproj", "{B3BD1571-C166-4324-A07C-5A6098B7D8BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "DataModels\DataModels.csproj", "{B3BD1571-C166-4324-A07C-5A6098B7D8BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{2FC73BD9-65EE-4A11-9E63-C2ED8C6AF83A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,14 +31,14 @@ Global
 		{A2635D9A-E284-48A0-B157-22D9A2741805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2635D9A-E284-48A0-B157-22D9A2741805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2635D9A-E284-48A0-B157-22D9A2741805}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EF52430E-A773-40A5-ABEF-7B682EC32AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF52430E-A773-40A5-ABEF-7B682EC32AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF52430E-A773-40A5-ABEF-7B682EC32AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF52430E-A773-40A5-ABEF-7B682EC32AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B3BD1571-C166-4324-A07C-5A6098B7D8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B3BD1571-C166-4324-A07C-5A6098B7D8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3BD1571-C166-4324-A07C-5A6098B7D8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3BD1571-C166-4324-A07C-5A6098B7D8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC73BD9-65EE-4A11-9E63-C2ED8C6AF83A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC73BD9-65EE-4A11-9E63-C2ED8C6AF83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC73BD9-65EE-4A11-9E63-C2ED8C6AF83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC73BD9-65EE-4A11-9E63-C2ED8C6AF83A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,7 +15,7 @@ namespace TestData.TestData
                 {
                     PhotoId = 1,
                     MessageId = 1,
-                    Url = "https://www.aoreestr.ru/upload/iblock/f64/consult_s1_ban.jpg",
+                    Url = "https://robokassa.com/upload/medialibrary/12e/12ec7d81223bf2b07bf44e4e36333677.jpg",
                 },
             };
         }

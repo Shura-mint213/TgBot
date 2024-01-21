@@ -18,7 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DatabaseProvider\DatabaseProvider.csproj" />
     <ProjectReference Include="..\DataModels\DataModels.csproj" />
-    <ProjectReference Include="..\Static\Static.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
     <ProjectReference Include="..\TestData\TestData.csproj" />
 	  <Content Include="appsettings.json">
 		  <CopyToOutputDirectory>Always</CopyToOutputDirectory>

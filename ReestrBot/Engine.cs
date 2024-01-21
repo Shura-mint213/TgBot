@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using DataModels.Interfaces;
 using Microsoft.Extensions.Configuration;
 using ReestrBot.Actions;
-using Static.Constants;
+using Shared.Statics;
 using Telegram.Bot;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
