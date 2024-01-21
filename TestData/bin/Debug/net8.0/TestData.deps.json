@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TestData/1.0.0": {
+        "dependencies": {
+          "DataModels": "1.0.0",
+          "Static": "1.0.0"
+        },
+        "runtime": {
+          "TestData.dll": {}
+        }
+      },
+      "DataModels/1.0.0": {
+        "runtime": {
+          "DataModels.dll": {}
+        }
+      },
+      "Static/1.0.0": {
+        "runtime": {
+          "Static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

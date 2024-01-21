@@ -1,0 +1,15 @@
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.csproj.AssemblyReference.cache
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.AssemblyInfoInputs.cache
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.AssemblyInfo.cs
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.csproj.CoreCompileInputs.cache
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\bin\Debug\net8.0\DatabaseProvider.deps.json
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\bin\Debug\net8.0\DatabaseProvider.dll
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\bin\Debug\net8.0\DatabaseProvider.pdb
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\bin\Debug\net8.0\DataModels.dll
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\bin\Debug\net8.0\DataModels.pdb
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.csproj.CopyComplete
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.dll
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\refint\DatabaseProvider.dll
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\DatabaseProvider.pdb
+C:\Prog\ReestrBot\ReestrBot\DatabaseProvider\obj\Debug\net8.0\ref\DatabaseProvider.dll

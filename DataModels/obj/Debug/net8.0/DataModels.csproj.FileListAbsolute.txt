@@ -1,0 +1,11 @@
+C:\Prog\ReestrBot\ReestrBot\DataModels\bin\Debug\net8.0\DataModels.deps.json
+C:\Prog\ReestrBot\ReestrBot\DataModels\bin\Debug\net8.0\DataModels.dll
+C:\Prog\ReestrBot\ReestrBot\DataModels\bin\Debug\net8.0\DataModels.pdb
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfoInputs.cache
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\DataModels.AssemblyInfo.cs
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\DataModels.dll
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\refint\DataModels.dll
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\DataModels.pdb
+C:\Prog\ReestrBot\ReestrBot\DataModels\obj\Debug\net8.0\ref\DataModels.dll

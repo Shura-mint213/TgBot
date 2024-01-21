@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "59pgIWNbX/Env3x9xZpWQOR/2UbT8CQlFc40oBPZnRWcNY++OeG55IDoHgjDk9JpjGLMOEsiww4ydp2PkTp88A==",
+  "success": true,
+  "projectFilePath": "C:\\Prog\\ReestrBot\\ReestrBot\\DatabaseProvider\\DatabaseProvider.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://t-web.corp.aoreestr.ru:8082/nuget''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}

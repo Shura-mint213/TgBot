@@ -1,0 +1,17 @@
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.csproj.AssemblyReference.cache
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.AssemblyInfoInputs.cache
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.AssemblyInfo.cs
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.csproj.CoreCompileInputs.cache
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\TestData.deps.json
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\TestData.dll
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\TestData.pdb
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\DataModels.dll
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\DataModels.pdb
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.csproj.CopyComplete
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.dll
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\refint\TestData.dll
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\TestData.pdb
+C:\Prog\ReestrBot\ReestrBot\TestData\obj\Debug\net8.0\ref\TestData.dll
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\Static.dll
+C:\Prog\ReestrBot\ReestrBot\TestData\bin\Debug\net8.0\Static.pdb
